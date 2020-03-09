@@ -18,7 +18,7 @@
         android:id="@+id/label_counter_tv"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/_0"/>
+        android:text="@string/init_0"/>
 
     <Button
         android:id="@+id/increment_bt"
